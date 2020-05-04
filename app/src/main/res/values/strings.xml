@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">MiPrimerApp</string>
-    <string name="txt_num1_String">Ingrese el primer numero</string>
-    <string name="txt_num2_String">Ingrese el segundo numero</string>
+    <string name="txt_num1_String">Ingrese el primer valor</string>
+    <string name="txt_num2_String">Ingrese el segundo valor</string>
     <string name="but_sum_String">Sumar</string>
     <string name="tv_result_String">Resultado</string>
 </resources>
